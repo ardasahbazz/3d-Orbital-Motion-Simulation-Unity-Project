@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: bbbd8dc1a2073fe4bb1457fd712f5f32
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _cam: {instanceID: 0}
+  - _selectionSound: {fileID: 8300000, guid: 3b94b210866cdcd40a15026ee17314f3, type: 3}
+  - _selectedBody: {instanceID: 0}
+  executionOrder: 600
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

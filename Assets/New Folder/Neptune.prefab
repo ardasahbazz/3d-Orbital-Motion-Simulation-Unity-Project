@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5327738428682686143
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3435957082124879172}
+  - component: {fileID: 5277390281177497681}
+  m_Layer: 0
+  m_Name: Neptune
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3435957082124879172
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5327738428682686143}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 1681.2747, y: -2499.6357, z: 12.699382}
+  m_LocalScale: {x: 2, y: 2, z: 2}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5277390281177497681
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5327738428682686143}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 722f9072e59f248e7905f086d2664a18, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _stellarParent: {fileID: 0}
+  _body: {fileID: 5327738428682686143}
+  _line: {fileID: 0}
+  _sideralYear: 60190.03
+  _semiMajorAxis: 4504450
+  _inclination: 1.768
+  _eccentricity: 0.009
+  _argAscending: 131.784
+  _argPerihelion: 276.336
+  _startMeanAnomaly: 256.228
+  _meanAnomaly: 0
+  _dayLength: 0.67
+  _startDayRotation: 0
+  _size: 24.622
+  _rightAscension: 299.36
+  _declination: 43.46
+  _uiVisual: {r: 0, g: 0, b: 0, a: 0}
