@@ -16,6 +16,31 @@ The aim is to provide an interactive and educational tool for exploring:
 - Orbital mechanics  
 - The relationship between mass, distance, and gravitational force  
 - Stable and unstable orbits
+---
+
+## Images
+
+More images and links to videos can be found in the NEA.pdf document.
+
+<figure>
+  <img src="https://github.com/user-attachments/assets/af9daec0-2c43-4c14-9969-96d904c74f0e" width="700" alt="Solar system view">
+  <figcaption><b>Figure 1:</b> Close-up of a planet's elliptical orbit and velocity vectors.</figcaption>
+</figure>
+
+<figure>
+  <img src="https://github.com/user-attachments/assets/a3c04513-1442-4964-98f9-cf67677b6a19" width="700" alt="Planetary orbit detail">
+  <figcaption><b>Figure 2:</b> Star constellation overlay enabled.</figcaption>
+</figure>
+
+<figure>
+  <img src="https://github.com/user-attachments/assets/04ed0afb-a51a-4ec2-85a0-69751ce6aee0" width="700" alt="Constellation view">
+  <figcaption><b>Figure 3:</b> Main Menu.</figcaption>
+</figure>
+
+<figure>
+  <img src="https://github.com/user-attachments/assets/9098651f-3da9-4a06-99dc-fe6b3e735471" width="700" alt="Asteroid belt simulation">
+  <figcaption><b>Figure 4:</b> Options Menu.</figcaption>
+</figure>
 
 ---
 
